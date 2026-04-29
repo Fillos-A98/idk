@@ -1,0 +1,2 @@
+body{font-family:Arial;background:#111;color:#eee;margin:0}nav{padding:12px;background:#1f1f1f}a{color:#7fd;margin-right:12px}.card{background:#1e1e1e;padding:12px;margin:10px;border-radius:8px}.skins{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px}img{width:100%;height:120px;object-fit:contain;background:#222}.roller{height:140px;overflow:hidden;border:2px solid #7fd;position:relative}.track{display:flex;gap:10px;animation:spin 2s ease-out}@keyframes spin{from{transform:translateX(0)}to{transform:translateX(-70%)}}
+button{padding:8px 12px}
